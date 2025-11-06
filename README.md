@@ -1,11 +1,23 @@
-**🎓 UniEquip – University Event Equipment Inventory Management System
-**
-UniEquip is a web-based equipment management system designed for universities to simplify the process of borrowing, tracking, and managing event equipment.
-It replaces manual record-keeping with a digital platform that allows both students and staff to interact efficiently.
+# 🏫 UniEquip – University Event Equipment Inventory Management System
 
-🖼️ Project Screenshots
+A **web-based inventory and reservation system** for managing university event equipment.  
+It simplifies the process for students to borrow and for staff to track and approve equipment usage — replacing manual, paper-based records with a centralized digital platform.
 
-(Replace the placeholders below with your actual screenshots, e.g., upload images to /assets/screenshots folder.)
+---
+
+## ✨ Features
+
+- 👩‍🎓 **Student Access** – Register, log in, and request to borrow event equipment  
+- 👨‍🏫 **Staff Dashboard** – Add, edit, and update equipment availability  
+- 📅 **Reservation System** – Submit and confirm borrowing requests online  
+- ✅ **Approval Workflow** – Staff approve or reject student requests  
+- 📊 **Report Generation** – View, export, or print reports in PDF/Excel format  
+- 🔒 **Secure Authentication** – Role-based access for students and staff  
+- 🌐 **User-Friendly Interface** – Simple, responsive, and efficient web layout  
+
+---
+
+## 🖼️ Project Screenshots
 
 Login Page	
 ![index](https://github.com/user-attachments/assets/35d88f10-cfa7-49a2-b0c0-f39108c5f67d)
