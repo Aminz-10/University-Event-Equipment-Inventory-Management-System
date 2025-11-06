@@ -1,5 +1,5 @@
-🎓 UniEquip – University Event Equipment Inventory Management System
-
+**🎓 UniEquip – University Event Equipment Inventory Management System
+**
 UniEquip is a web-based equipment management system designed for universities to simplify the process of borrowing, tracking, and managing event equipment.
 It replaces manual record-keeping with a digital platform that allows both students and staff to interact efficiently.
 
